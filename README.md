@@ -29,3 +29,6 @@ Follow the prompts to enter information about your project. The application will
 ## License
 
 This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
+
+## Working video
+Here's a video link to see the program in action: https://youtu.be/Zhttmztf7pk
